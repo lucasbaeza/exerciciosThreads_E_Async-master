@@ -21,7 +21,7 @@ namespace Exercicio02_MetodoAssincrono.Apresentacao
             await Task.Run(() =>
             {
                 Loading();                
-                aluno = "Aluno: Samir Turquetto Melo \nR.A.: 290";
+                aluno = "Lucas Baeza \nR.A.: 475";
             });
 
             return aluno;
